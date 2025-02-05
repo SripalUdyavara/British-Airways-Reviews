@@ -30,7 +30,7 @@ The following filters allow dynamic analysis of the data:
 - **Pick a Metric** - Selects one of the sub-categories (Overall Rating, Cabin Staff Service, Entertainment, etc.).
 - **Date Selection** - Filters reviews based on flight date (March 2016 - October 2023).
 - **Traveler Type** - Filters by reason for travel:
-  - Business, Couple Leisure, Family Leisure, Solo Leisure (**NULL values present**).
+  - Business, Couple Leisure, Family Leisure, Solo Leisure.
 - **Seat Type** - Filters by seat class:
   - Business Class, Economy Class, First Class, Premium Economy.
 - **Aircraft Selection** - Filters reviews based on aircraft type (Boeing 747, A320, etc.).
