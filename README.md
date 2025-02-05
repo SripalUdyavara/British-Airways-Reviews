@@ -58,7 +58,7 @@ The following filters allow dynamic analysis of the data:
 4. Interact with the dashboard to explore insights.
 
 ## **Dashboard Link**
-You can access the Tableau Public dashboard here: [https://public.tableau.com/app/profile/sripal.udyavara/viz/BritishAirwaysReviewDashboard_17386975773570/Dashboard1]
+You can access the Tableau Public dashboard here: https://public.tableau.com/app/profile/sripal.udyavara/viz/BritishAirwaysReviewDashboard_17386975773570/Dashboard1
 
 ## **Screenshot of the Dashboard**
 ![Dashboard View](Dashboard_View.png)
