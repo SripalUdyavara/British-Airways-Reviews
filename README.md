@@ -70,7 +70,7 @@ You can access the Tableau Public dashboard here: [Tableau Public Link]
 
 ## **Author & Credits**
 Developed by **Sripal Udyavara**
-For inquiries, reach out via **[www.linkedin.com/in/sripal-udyavara]**
+For inquiries, reach out via **www.linkedin.com/in/sripal-udyavara**
 
 ---
 This project is open for contributions! Feel free to fork the repository and enhance it further.
